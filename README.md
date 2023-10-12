@@ -51,7 +51,7 @@ Github: [MartinezN2014](https://github.com/MartinezN2014)
 
 Email: [Email](2014nmartinez@gmail.com)
 
-Nelson's youtube tutorial on the SVG Logo
+Nelson's youtube tutorial
 [Youtube](https://www.youtube.com/watch?v=cMaZdMeerH0)
 
 ![Example](./assets/images/Insomnia.jpg)
